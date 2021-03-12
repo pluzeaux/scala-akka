@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/Philippe/Development/IdeaProjects/goticks/target/scala-2.13/goticks_2.13-0.1-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Philippe/Development/IdeaProjects/goticks/src/main/resources/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Philippe/Development/IdeaProjects/goticks/src/main/resources/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BoxOffice.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Philippe/Development/IdeaProjects/goticks/src/main/scala/BoxOffice.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TicketSeller.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Philippe/Development/IdeaProjects/goticks/src/main/scala/TicketSeller.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RestApi.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Philippe/Development/IdeaProjects/goticks/src/main/scala/RestApi.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EventMarshalling.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Philippe/Development/IdeaProjects/goticks/src/main/scala/EventMarshalling.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Philippe/Development/IdeaProjects/goticks/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

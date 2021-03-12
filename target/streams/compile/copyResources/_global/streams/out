@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/Philippe/Development/IdeaProjects/goticks/src/main/resources/logback.xml,/Users/Philippe/Development/IdeaProjects/goticks/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/Philippe/Development/IdeaProjects/goticks/src/main/resources/application.conf,/Users/Philippe/Development/IdeaProjects/goticks/target/scala-2.13/classes/application.conf)[0m
